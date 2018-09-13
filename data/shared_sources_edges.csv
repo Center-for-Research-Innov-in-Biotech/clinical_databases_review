@@ -1,0 +1,746 @@
+,dB,source,edge_color
+0,pubchem,bindingdb,red
+1,pubchem,chebi,red
+2,pubchem,chembl,red
+3,pubchem,chemspider,red
+4,pubchem,clinicaltrials.gov,red
+5,pubchem,dailymed,red
+6,pubchem,drugbank,red
+7,pubchem,drugcentral,red
+8,pubchem,fda pharm classes,red
+9,pubchem,gene ontology (go),red
+10,pubchem,hugo gene nomenclature committee (hgnc),red
+11,pubchem,human metabolome database (hmdb),red
+12,pubchem,kegg,red
+13,pubchem,mesh,red
+14,pubchem,fda orange book,red
+15,pubchem,pdb,red
+16,pubchem,sigma-aldrich,red
+17,pubchem,therapeutic target database (ttd),red
+18,pubchem,wikipedia,red
+19,pubchem,wipo,red
+20,pubchem,1717 chemall corporation,red
+21,pubchem,3a speedchemical inc,red
+22,pubchem,4c pharma scientific inc,red
+23,pubchem,"a&j pharmtech co., ltd.",red
+24,pubchem,a1 biochem labs,red
+25,pubchem,a2z chemical,red
+26,pubchem,aaa chemistry,red
+27,pubchem,abachemscene,red
+28,pubchem,abblis chemicals,red
+29,pubchem,abbott labs,red
+30,pubchem,abcr gmbh,red
+31,pubchem,abi chem,red
+32,pubchem,abmole bioscience,red
+33,pubchem,abovchem llc,red
+34,pubchem,acadechem,red
+35,pubchem,accela chembio inc.,red
+36,pubchem,acemol,red
+37,pubchem,acesobio,red
+38,pubchem,achemica,red
+39,pubchem,achemo scientific limited,red
+40,pubchem,aco pharm screening compound,red
+41,pubchem,acorn pharmatech product list,red
+42,pubchem,act chemical,red
+43,pubchem,activate scientific,red
+44,pubchem,active biopharma,red
+45,pubchem,adooq bioscience,red
+46,pubchem,"aechem scientific corporation, usa",red
+47,pubchem,"ahh chemical co.,ltd",red
+48,pubchem,"aibiotech, llc",red
+49,pubchem,"ak scientific, inc. (aksci)",red
+50,pubchem,akos consulting & solutions,red
+51,pubchem,"alagar yadav, karpagam university",red
+52,pubchem,alcatraz chemicals,red
+53,pubchem,alfa chemistry,red
+54,pubchem,alichem,red
+55,pubchem,alinda chemical,red
+56,pubchem,alsachim,red
+57,pubchem,amadis chemical,red
+58,pubchem,amatye,red
+59,pubchem,ambinter,red
+60,pubchem,ambit biosciences,red
+61,pubchem,amicbase - antimicrobial activities,red
+62,pubchem,an pharmatech,red
+63,pubchem,"angayarkanni lab, department of microbial biotechnology, bharathiar university",red
+64,pubchem,angene chemical,red
+65,pubchem,"anitha, department of bioinformatics, karpagam university",red
+66,pubchem,annker organics,red
+67,pubchem,ansion pharma,red
+68,pubchem,anward,red
+69,pubchem,aobious inc,red
+70,pubchem,apeiron synthesis,red
+71,pubchem,apexbio technology,red
+72,pubchem,apexmol,red
+73,pubchem,"ark pharm, inc.",red
+74,pubchem,ark pharma scientific limited,red
+75,pubchem,aromalake chemical,red
+76,pubchem,aromsyn catalogue,red
+77,pubchem,aronis,red
+78,pubchem,"arromax pharmatech co., ltd",red
+79,pubchem,asinex,red
+80,pubchem,assembly blocks pvt. ltd.,red
+81,pubchem,"astatech, inc.",red
+82,pubchem,atamg,red
+83,pubchem,"atomole scientific co.,ltd.",red
+84,pubchem,atpase-kinase pharmacophores (akp),red
+85,pubchem,aurora fine chemicals llc,red
+86,pubchem,aurum pharmatech llc,red
+87,pubchem,ava biochem switzerland,red
+88,pubchem,avachem scientific,red
+89,pubchem,avanti polar lipids,red
+90,pubchem,ax molecules inc,red
+91,pubchem,axon medchem,red
+92,pubchem,azepine,red
+93,pubchem,b&c chemical,red
+94,pubchem,"barrie walker, bark information services",red
+95,pubchem,"beijing advanced technology co, ltd",red
+96,pubchem,"beltsville human nutrition research center, ars, usda",red
+97,pubchem,bepharm ltd.,red
+98,pubchem,berrchem,red
+99,pubchem,bertin pharma,red
+100,pubchem,bestdo inc,red
+101,pubchem,"bhaskar lab, department of zoology, sri venkateswara university",red
+102,pubchem,"bhaskar lab, department of zoology, sri venkateswara university, tirupati, andhra pradesh, india",red
+103,pubchem,bidd,red
+104,pubchem,bide pharmatech ltd.,red
+105,pubchem,bind,red
+106,pubchem,biochempartner,red
+107,pubchem,biocore,red
+108,pubchem,biocyc,red
+109,pubchem,biological magnetic resonance data bank (bmrb),red
+110,pubchem,"bioprocess technology lab, department of microbiology, bharathidasan university",red
+111,pubchem,biosynth,red
+112,pubchem,boc sciences,red
+113,pubchem,boerchem,red
+114,pubchem,"boone lab, chemical genomics, university of toronto",red
+115,pubchem,boroncore,red
+116,pubchem,bradner/qi labs at dfci,red
+117,pubchem,"bright pigments, inc",red
+118,pubchem,broad institute,red
+119,pubchem,broadpharm,red
+120,pubchem,"bu lab, school of pharmaceutical sciences, sun yat-sen university",red
+121,pubchem,"c. david weaver laboratory, vanderbilt university",red
+122,pubchem,calbiochem,red
+123,pubchem,cambridgechem,red
+124,pubchem,cameo chemicals,red
+125,pubchem,"cancer functional genomics, wellcome trust sanger institute",red
+126,pubchem,cancer research uk cambridge research institute,red
+127,pubchem,"cangzhou enke pharma tech co.,ltd.",red
+128,pubchem,capot,red
+129,pubchem,carbott pharmtech inc.,red
+130,pubchem,cayman chemical,red
+131,pubchem,cc_pmlsc,red
+132,pubchem,cdc-atsdr toxic substances portal,red
+133,pubchem,cegchem,red
+134,pubchem,"center for chemical genomics, university of michigan",red
+135,pubchem,center for natural product technologies at uic (cenapt),red
+136,pubchem,changchem,red
+137,pubchem,"changzhou highassay chemical co., ltd",red
+138,pubchem,chem-space.com database,red
+139,pubchem,chemaphor chemical services,red
+140,pubchem,chembank,red
+141,pubchem,chembase.cn,red
+142,pubchem,chemblock,red
+143,pubchem,chembridge,red
+144,pubchem,chemdb,red
+145,pubchem,chemdiv,red
+146,pubchem,chemenu inc.,red
+147,pubchem,chemexper chemical directory,red
+148,pubchem,chemfaces,red
+149,pubchem,chemhere,red
+150,pubchem,"chemical biology department, max planck institute of molecular physiology",red
+151,pubchem,chemical genetic matrix,red
+152,pubchem,chemical probes portal,red
+153,pubchem,chemical synthesis database,red
+154,pubchem,chemicalize.org by chemaxon,red
+155,pubchem,chemidplus,red
+156,pubchem,"chemieliva pharmaceutical co., ltd",red
+157,pubchem,chemietek,red
+158,pubchem,"cheminformatics & chemogenomics research group (ccrg), indiana university school of informatics",red
+159,pubchem,chemmol,red
+160,pubchem,chemodex ltd.,red
+161,pubchem,"chemoproteomic metabolic pathway resource, scripps university",red
+162,pubchem,chemotion,red
+163,pubchem,chemshuttle,red
+164,pubchem,chemsoon,red
+165,pubchem,chemtik,red
+166,pubchem,chemwise,red
+167,pubchem,"chen lab, school of medicine, emory university",red
+168,pubchem,"china mainchem co., ltd",red
+169,pubchem,chiralblock biosciences,red
+170,pubchem,"chung lab, department of pediatrics, emory university",red
+171,pubchem,"circadian research, kay laboratory, university of california at san diego (ucsd)",red
+172,pubchem,"ciulli lab, division of biological chemistry and drug discovery, university of dundee",red
+173,pubchem,clearsynth,red
+174,pubchem,clri (csir),red
+175,pubchem,cmld-bu,red
+176,pubchem,"collaborative drug discovery, inc.",red
+177,pubchem,columbia university molecular screening center,red
+178,pubchem,comparative toxicogenomics database,red
+179,pubchem,compass remediation chemicals,red
+180,pubchem,coresyn,red
+181,pubchem,creasyn finechem,red
+182,pubchem,creative biogene,red
+183,pubchem,creative biolabs,red
+184,pubchem,creative enzymes,red
+185,pubchem,creativepeptides,red
+186,pubchem,crystallography open database,red
+187,pubchem,cyandye llc,red
+188,pubchem,dao fu chemical,red
+189,pubchem,day biochem,red
+190,pubchem,dc chemicals,red
+191,pubchem,"debye scientific co., ltd",red
+192,pubchem,"denison lab, department of environmental toxicology, uc davis",red
+193,pubchem,"department of drug chemistry, lithuanian university of health sciences",red
+194,pubchem,"department of molecular cell biology, weizmann institute of science",red
+195,pubchem,"department of pharmacy, lmu",red
+196,pubchem,"dharmacon, a horizon discovery group company",red
+197,pubchem,diabetic complications screening,red
+198,pubchem,"dirusso lab, biochemistry department, university of nebraska",red
+199,pubchem,discoverygate,red
+200,pubchem,"dong lab, school of life science and biotechnology, dalian university of technology",red
+201,pubchem,dot emergency response guidebook,red
+202,pubchem,"dr amee george, victorian centre for functional genomics, peter maccallum cancer centre",red
+203,pubchem,drosophila rnai screening center (drsc),red
+204,pubchem,dtp/nci,red
+205,pubchem,eawag-bbd,red
+206,pubchem,edasa scientific compounds june 2013,red
+207,pubchem,"egon willighagen (dept. of bioinformatics - bigcat, maastricht university)",red
+208,pubchem,eheterocycles ltd,red
+209,pubchem,einhibitors,red
+210,pubchem,elsa biotechnology,red
+211,pubchem,emd biosciences,red
+212,pubchem,emd millipore,red
+213,pubchem,emory university molecular libraries screening center,red
+214,pubchem,enamine,red
+215,pubchem,ennopharm,red
+216,pubchem,enovation chemicals,red
+217,pubchem,enquirebio,red
+218,pubchem,epa air toxics,red
+219,pubchem,epa chemicals under the tsca,red
+220,pubchem,epa dsstox,red
+221,pubchem,epa office of pesticide programs,red
+222,pubchem,epa safer choice,red
+223,pubchem,epa substance registry services,red
+224,pubchem,"essentials of glycobiology, 3rd edition",red
+225,pubchem,"esther woon lab, national university of singapore",red
+226,pubchem,eu community register of medicinal products,red
+227,pubchem,eu food improvement agents,red
+228,pubchem,eu pesticides database,red
+229,pubchem,eu regulation (ec) no 1272/2008,red
+230,pubchem,european chemicals agency (echa),red
+231,pubchem,excel-asia,red
+232,pubchem,excenen pharmatech,red
+233,pubchem,exchemistry,red
+234,pubchem,expert synthesis solutions,red
+235,pubchem,fao/who food additive evaluations (jecfa),red
+236,pubchem,fcenuba,red
+237,pubchem,fchemicals,red
+238,pubchem,fda center for food safety and applied nutrition (cfsan),red
+239,pubchem,fda medication guides,red
+240,pubchem,fda/spl indexing data,red
+241,pubchem,fermalogic,red
+242,pubchem,finetech industry limited,red
+243,pubchem,"finley and king labs, harvard medical school",red
+244,pubchem,fisher chemical,red
+245,pubchem,fivephoton/pacific ion,red
+246,pubchem,flavor & extract manufacturers association (fema),red
+247,pubchem,fluor-probes,red
+248,pubchem,"fluoropharm co.,ltd",red
+249,pubchem,forechem,red
+250,pubchem,founder pharma,red
+251,pubchem,fragmenta,red
+252,pubchem,fusc,red
+253,pubchem,futurechem,red
+254,pubchem,ganolix lifescience,red
+255,pubchem,"garg lab, department of chemistry and biochemistry, ucla",red
+256,pubchem,genentech,red
+257,pubchem,"genta-jouve lab, university paris descartes",red
+258,pubchem,georganics,red
+259,pubchem,gl biochem,red
+260,pubchem,glaxosmithkline (gsk),red
+261,pubchem,glentham life sciences ltd.,red
+262,pubchem,"glida, gpcr-ligand database",red
+263,pubchem,glixx labs inc,red
+264,pubchem,glytoucan project,red
+265,pubchem,gnf / scripps  winzeler lab,red
+266,pubchem,"golm metabolome database (gmd), max planck institute of molecular plant physiology",red
+267,pubchem,grape king bio,red
+268,pubchem,green chempharm inc,red
+269,pubchem,gregory j. crowther,red
+270,pubchem,"guri giaever, pharmaceutical sciences, university of british columbia",red
+271,pubchem,hangzhou apichem technology,red
+272,pubchem,hangzhou trylead chemical technology,red
+273,pubchem,hdh pharma,red
+274,pubchem,hdh pharma,red
+275,pubchem,"hefei hirisun pharmatech co., ltd",red
+276,pubchem,hello bio,red
+277,pubchem,herbest bio-tech,red
+278,pubchem,heterocyclics research chemicals & building blocks,red
+279,pubchem,heteroz llc,red
+280,pubchem,hopax fine chemicals,red
+281,pubchem,hsdb,red
+282,pubchem,humgenex,red
+283,pubchem,iain fraser,red
+284,pubchem,ibch ras,red
+285,pubchem,ibm,red
+286,pubchem,"iccb-longwood screening facility, harvard medical school",red
+287,pubchem,ichemcluster,red
+288,pubchem,ichemical technology usa inc,red
+289,pubchem,ihu mediterranee infection,red
+290,pubchem,ilo-icsc,red
+291,pubchem,immune epitope database (iedb),red
+292,pubchem,"immunology lab, department of biotechnology, calicut university",red
+293,pubchem,infarmatik,red
+294,pubchem,infectx consortium,red
+295,pubchem,inhibitor 2,red
+296,pubchem,innovative therapeutics lab,red
+297,pubchem,"insect molecular biology lab, department of environmental biotechnology, bharathidasan university",red
+298,pubchem,"inserm, institut national de la sante et de la recherche medicale",red
+299,pubchem,international union of pure and applied chemistry (iupac),red
+300,pubchem,irvine chemistry lab,red
+301,pubchem,isoprenoids,red
+302,pubchem,ispharm,red
+303,pubchem,ithemba pharmaceuticals,red
+304,pubchem,iuphar/bps guide to pharmacology,red
+305,pubchem,"jackson lab, gurdon institute, university of cambridge",red
+306,pubchem,jamson pharmachem technology,red
+307,pubchem,"jefferson lab, u.s. department of energy",red
+308,pubchem,johns hopkins ion channel center,red
+309,pubchem,"joseph lab, department of biotechnology, university of calicut",red
+310,pubchem,kcs online,red
+311,pubchem,"keith lab, institute of cancer science, university of glasgow",red
+312,pubchem,"kerry masterson, uc davis",red
+313,pubchem,key organics/bionet,red
+314,pubchem,kinasechem ltd,red
+315,pubchem,king scientific,red
+316,pubchem,kingston chemistry,red
+317,pubchem,"krishnasamy nithya, chinnasamy muthukumar, dhanasekaran dharumadurai",red
+318,pubchem,"ku outreach library, the university of kansas",red
+319,pubchem,kumgm,red
+320,pubchem,"kunshan hs chemicals co., ltd.",red
+321,pubchem,lab ct,red
+322,pubchem,"labnetwork, a wuxi apptec company",red
+323,pubchem,"laboratory of environmental genomics, carolina center for computational toxicology, university of north carolina at chapel hill",red
+324,pubchem,labseeker,red
+325,pubchem,lancrix chemicals,red
+326,pubchem,leadscope,red
+327,pubchem,leo biochem,red
+328,pubchem,lgc standards,red
+329,pubchem,life chemicals,red
+330,pubchem,"life technologies, applied biosystems, ambion",red
+331,pubchem,lipid maps,red
+332,pubchem,livertox,red
+333,pubchem,lorad chemical corporation,red
+334,pubchem,"los alamos national laboratory, u.s. department of energy",red
+335,pubchem,luminescence technology corp. (lumtec),red
+336,pubchem,massbank of north america (mona),red
+337,pubchem,matreya llc,red
+338,pubchem,mcmaster cmcb,red
+339,pubchem,mcule,red
+340,pubchem,medchemexpress mce,red
+341,pubchem,megazyme intenational oligosaccharides and enzyme substrates,red
+342,pubchem,"meiler lab, vanderbilt university",red
+343,pubchem,metabolomicsworkbench,red
+344,pubchem,metonchem small molecules for drug research,red
+345,pubchem,mic scientific,red
+346,pubchem,micad,red
+347,pubchem,milestone pharmtech usa inc.,red
+348,pubchem,milwaukee institute for drug discovery,red
+349,pubchem,mlp probe reports,red
+350,pubchem,mlsmr,red
+351,pubchem,molcore,red
+352,pubchem,"molecular libraries program, specialized chemistry center, university of kansas",red
+353,pubchem,molepedia,red
+354,pubchem,moli,red
+355,pubchem,molmall,red
+356,pubchem,molport,red
+357,pubchem,mp biomedicals,red
+358,pubchem,"mrinalini singh, department of botany, nirmala college",red
+359,pubchem,msu solanum trichome project,red
+360,pubchem,mtdp,red
+361,pubchem,musechem,red
+362,pubchem,mutabilis,red
+363,pubchem,"nangia group, syracuse university",red
+364,pubchem,nanjing kaimubo,red
+365,pubchem,"nanjing kaiyuan biochemical engineering co.,ltd.",red
+366,pubchem,nanjing pharmaceutical factory,red
+367,pubchem,"nantong baihua bio-pharmaceutical co., ltd",red
+368,pubchem,nature chemical biology,red
+369,pubchem,nature chemistry,red
+370,pubchem,nature communications,red
+371,pubchem,ncbi biosystems,red
+372,pubchem,ncbi conserved domains (cdd),red
+373,pubchem,ncbi gene,red
+374,pubchem,ncbi medgen,red
+375,pubchem,ncbi protein,red
+376,pubchem,ncbi structure,red
+377,pubchem,ncbi taxonomy,red
+378,pubchem,ncgc,red
+379,pubchem,nci cancer drugs,red
+380,pubchem,nci investigational drugs,red
+381,pubchem,ncit,red
+382,pubchem,nextbio,red
+383,pubchem,nextmove software,red
+384,pubchem,nextpeptide,red
+385,pubchem,niaid,red
+386,pubchem,nih clinical collection,red
+387,pubchem,nih/ncats rnai,red
+388,pubchem,nikkaji,red
+389,pubchem,ninds approved drug screening program,red
+390,pubchem,niosh manual of analytical methods,red
+391,pubchem,nist,red
+392,pubchem,nist chemistry webbook,red
+393,pubchem,nist physical measurement laboratory,red
+394,pubchem,nite-cmc,red
+395,pubchem,"nitric oxide research, national cancer institute (nci)",red
+396,pubchem,njdoh rtk hazardous substance list,red
+397,pubchem,nki-avl,red
+398,pubchem,nlm genetics home reference,red
+399,pubchem,nmmlsc,red
+400,pubchem,nmrshiftdb,red
+401,pubchem,norris pharm,red
+402,pubchem,novartis institutes for biomedical research,red
+403,pubchem,novoseek,red
+404,pubchem,ntz,red
+405,pubchem,nuclear receptor signaling atlas (nursa),red
+406,pubchem,"nyati lab, university of michigan medical school",red
+407,pubchem,oakwood products,red
+408,pubchem,ochem,red
+409,pubchem,olainfarm jsc,red
+410,pubchem,"omicron biochemicals, inc.",red
+411,pubchem,online mendelian inheritance in man (omim),red
+412,pubchem,optopharma ltd.,red
+413,pubchem,organofuel sweden,red
+414,pubchem,orst small molecule screening center,red
+415,pubchem,osha chemical sampling information,red
+416,pubchem,osha occupational chemical db,red
+417,pubchem,ossila,red
+418,pubchem,oxchem corporation,red
+419,pubchem,"p.ravikumar,m.jeyam and g.shalini.biochematics division,dept.of bioinformatics,bharathiar university, coimbatore",red
+420,pubchem,p3 biosystems,red
+421,pubchem,"paczesny and yang labs, iupui and university of michigan",red
+422,pubchem,panache,red
+423,pubchem,paragos,red
+424,pubchem,parchem,red
+425,pubchem,parkway scientific,red
+426,pubchem,paul baures,red
+427,pubchem,pcmd,red
+428,pubchem,pdsp,red
+429,pubchem,penn-abs,red
+430,pubchem,pennchem-gam,red
+431,pubchem,"peterson lab, genentech",red
+432,pubchem,"petukhov lab, university of illinois at chicago, department of medicinal chemistry",red
+433,pubchem,pfam,red
+434,pubchem,pharmacogenomics_mk lab,red
+435,pubchem,phion ltd,red
+436,pubchem,pi chemicals,red
+437,pubchem,pistoia alliance chemical safety library,red
+438,pubchem,polyorganix,red
+439,pubchem,porsechemical,red
+440,pubchem,"priyadharshini, sabarathinam, angayarkanni, murugesh, palaniswamy",red
+441,pubchem,probedb,red
+442,pubchem,proteochem,red
+443,pubchem,prous science drugs of the future,red
+444,pubchem,pubmed health,red
+445,pubchem,"pugazhvendan lab, annamalai university",red
+446,pubchem,pure chemistry,red
+447,pubchem,purepeg,red
+448,pubchem,qiagen,red
+449,pubchem,r&d chemicals,red
+450,pubchem,"r.sathishkumar,phytomatics laboratory, department of bioinformatics, bharathiar university",red
+451,pubchem,race chemical,red
+452,pubchem,"ralph tripp lab, department of infectious diseases, college of veterinary medicine at the university of georgia",red
+453,pubchem,"rangan lab, department of biotechnology, iit guwahati",red
+454,pubchem,"raushel lab, department of chemistry, texas a&m university",red
+455,pubchem,reddy n reddy pharmaceuticals,red
+456,pubchem,regis technologies,red
+457,pubchem,retaj chemicals,red
+458,pubchem,"rieke metals, llc",red
+459,pubchem,rosewachem,red
+460,pubchem,"rschem, llc",red
+461,pubchem,s-(+)-cis-trans-abscisic acid,red
+462,pubchem,"s.gurudeeban,t.ramanathan & k.satyavani, marine medicinal plant biotechnology laboratory, faculty of marine sciences, annamalai university",red
+463,pubchem,safe work australia - hcis,red
+464,pubchem,sanford-burnham center for chemical genomics,red
+465,pubchem,"sarchem laboratories, inc.",red
+466,pubchem,"sastra university, quorum sensing and peptidomimetics laboratory",red
+467,pubchem,"sattelle laboratory, ucl respiratory, division of medicine, university college london",red
+468,pubchem,sayibo catalog products,red
+469,pubchem,scripdb,red
+470,pubchem,"sean brady lab, laboratory of genetically encoded small molecules, the rockefeller university",red
+471,pubchem,selectlab chemicals gmbh,red
+472,pubchem,selleckchem,red
+473,pubchem,sgc toronto,red
+474,pubchem,sgcoxcompounds,red
+475,pubchem,sgcstocompounds,red
+476,pubchem,shandong youbang biochemical,red
+477,pubchem,shanghai institute of organic chemistry,red
+478,pubchem,"shanghai send pharmaceutical technology co., ltd",red
+479,pubchem,"shanghai sinofluoro chemicals co., ltd",red
+480,pubchem,"shangyu catsyn co., ltd.",red
+481,pubchem,"shanmugaiah lab, department of microbial technology, madurai kamaraj university",red
+482,pubchem,shape chem,red
+483,pubchem,"shapiro lab, department of biochemistry, university of illinois",red
+484,pubchem,sharypharm,red
+485,pubchem,shenzhen nexconn pharmatechs. ltd,red
+486,pubchem,skku-nrt,red
+487,pubchem,sling consortium,red
+488,pubchem,"smaill lab, auckland cancer society research centre",red
+489,pubchem,smartox biotechnology venoms and peptides,red
+490,pubchem,smid,red
+491,pubchem,"snyder lab, drexel university",red
+492,pubchem,southern research institute,red
+493,pubchem,southern research specialized biocontainment screening center,red
+494,pubchem,specs,red
+495,pubchem,spectra group synthetics,red
+496,pubchem,spectrabase,red
+497,pubchem,springer nature,red
+498,pubchem,squarix gmbh,red
+499,pubchem,srmlsc,red
+500,pubchem,stork biochemicals,red
+501,pubchem,structural genomics consortium,red
+502,pubchem,sun-shinechem,red
+503,pubchem,suntto chemical,red
+504,pubchem,sunwain,red
+505,pubchem,sunway pharm,red
+506,pubchem,"surabhi johari  at deepak chetia laboratory, department of pharmaceutical sciences, dibrugarh university along with n.c.barua ,natural product laboratory, neist ,jorhat assam",red
+507,pubchem,surechembl,red
+508,pubchem,suryansh pharmachem,red
+509,pubchem,"suzhou geao new materials co.,ltd",red
+510,pubchem,swiss institute of bioinformatics enzyme,red
+511,pubchem,synblock inc,red
+512,pubchem,synchem ohg,red
+513,pubchem,syncom,red
+514,pubchem,syninnova laboratories inc.,red
+515,pubchem,syntechem,red
+516,pubchem,syntharise,red
+517,pubchem,synthesis with catalysts pvt. ltd.,red
+518,pubchem,syntree,red
+519,pubchem,targetmol,red
+520,pubchem,"taunton lab, cellular molecular pharmacology, ucsf",red
+521,pubchem,tci (tokyo chemical industry),red
+522,pubchem,"ten dijke lab, leiden university medical center",red
+523,pubchem,tenova pharmaceuticals inc,red
+524,pubchem,tetrahedron scientific inc,red
+525,pubchem,the cambridge structural database,red
+526,pubchem,the genomics institute of the novartis research foundation (gnf),red
+527,pubchem,the national institute for occupational safety and health (niosh),red
+528,pubchem,the rockefeller university high throughput screening and spectroscopy resource center,red
+529,pubchem,the scripps research institute molecular screening center,red
+530,pubchem,the university of alabama libraries,red
+531,pubchem,thomson pharma,red
+532,pubchem,timtec,red
+533,pubchem,tocopharm,red
+534,pubchem,tocris bioscience,red
+535,pubchem,toku-e company,red
+536,pubchem,total toslab building-blocks,red
+537,pubchem,tox21,red
+538,pubchem,toxplanet,red
+539,pubchem,tractus,red
+540,pubchem,triplebond,red
+541,pubchem,"trippier lab, school of pharmacy, texas tech uhsc",red
+542,pubchem,true pharmachem,red
+543,pubchem,tubepharm,red
+544,pubchem,tw2informatics,red
+545,pubchem,tyger scientific,red
+546,pubchem,ucl-wolfson drug discovery,red
+547,pubchem,ucla molecular screening shared resource,red
+548,pubchem,ucsf-derisi lab,red
+549,pubchem,un globally harmonized system of classification and labelling of chemicals (ghs),red
+550,pubchem,unicarbkb,red
+551,pubchem,uniprot,red
+552,pubchem,university of pittsburgh molecular library screening center,red
+553,pubchem,upcmld,red
+554,pubchem,usda pesticide data program,red
+555,pubchem,usgs columbia environmental research center,red
+556,pubchem,usgs national minerals information center,red
+557,pubchem,uthscsa,red
+558,pubchem,"uw madison, small molecule screening facility",red
+559,pubchem,valliscor,red
+560,pubchem,vander kooi lab uky,red
+561,pubchem,vanderbilt high throughput screening facility,red
+562,pubchem,vanderbilt specialized chemistry center,red
+563,pubchem,vanderbilt university medical center,red
+564,pubchem,"vanderven lab, college of veterinary medicine, cornell university",red
+565,pubchem,vav life sciences,red
+566,pubchem,"vesino industrial co., ltd",red
+567,pubchem,"victor tsetlin lab, institute of bioorganic chemistry ras",red
+568,pubchem,"victorian centre for functional genomics, peter maccallum cancer centre",red
+569,pubchem,vit university,red
+570,pubchem,vitas-m laboratory,red
+571,pubchem,vladachem,red
+572,pubchem,vtt technical research centre of finland (csma),red
+573,pubchem,w&j pharmachem products,red
+574,pubchem,wade research foundation,red
+575,pubchem,watec laboratories,red
+576,pubchem,watson international ltd,red
+577,pubchem,web of science,red
+578,pubchem,wenzhou medical university,red
+579,pubchem,who atc,red
+580,pubchem,wiemer lab,red
+581,pubchem,wikipathways,red
+582,pubchem,wilshire technologies,red
+583,pubchem,"wolschendorf lab, school of medicine, university of alabama at birmingham",red
+584,pubchem,wolves r&d chemical,red
+585,pubchem,"wong's lab, department of immunology, school of medical sciences, health campus, universiti sains malaysia",red
+586,pubchem,wubei-biochem,red
+587,pubchem,wutech,red
+588,pubchem,"xianzhang bu lab, school of pharmaceutucal sciences, sun yat-sen university",red
+589,pubchem,"xiaojiang lab, kunming institute of botany, cas",red
+590,pubchem,xlinebio,red
+591,pubchem,xpharm,red
+592,pubchem,"yan lab, georgia cancer center, augusta university",red
+593,pubchem,yuhao chemical,red
+594,pubchem,zancheng functional chemicals,red
+595,pubchem,zealing chemical,red
+596,pubchem,zinc,red
+597,pubchem,zjartschem(china),red
+598,chembl,astrazeneca deposited data,orange
+599,chembl,bindingdb,orange
+600,chembl,british national formulary,orange
+601,chembl,clinical candidates,orange
+602,chembl,clinicaltrials.gov,orange
+603,chembl,co-add antimicrobial screening data,orange
+604,chembl,co-add antimicrobial screening data,orange
+605,chembl,dailymed,orange
+606,chembl,drugmatrix,orange
+607,chembl,drugs for neglected diseases initiative (dndi),orange
+608,chembl,efo,orange
+609,chembl,fda approval packages,orange
+610,chembl,gates library compound collection,orange
+611,chembl,gene expression atlas compounds	,orange
+612,chembl,gsk kinetoplastid screening,orange
+613,chembl,gsk malaria screening,orange
+614,chembl,gsk published kinase inhibitor set,orange
+615,chembl,gsk tuberculosis screening,orange
+616,chembl,harvard malaria screening,orange
+617,chembl,hecatos compounds,orange
+618,chembl,hrac_classification,orange
+619,chembl,irac classificaiton,orange
+620,chembl,iupharm,orange
+621,chembl,kegg,orange
+622,chembl,mesh,orange
+623,chembl,mmv malaria box	,orange
+624,chembl,mmv pathogen box,orange
+625,chembl,novartis malaria screening,orange
+626,chembl,open source malaria screening,orange
+627,chembl,open tg-gates,orange
+628,chembl,fda orange book,orange
+629,chembl,pubchem,orange
+630,chembl,pubmed,orange
+631,chembl,sanger institute genomics of drug sensitivity in cancer	,orange
+632,chembl,st jude leishmania screening,orange
+633,chembl,st jude malaria screening,orange
+634,chembl,tp-search transporter database,orange
+635,chembl,uniport,orange
+636,chembl,usp dictionary of usan and international drug names,orange
+637,chembl,who atc index,orange
+638,chembl,who-tdr malaria screening,orange
+639,chembl,wikipedia,orange
+640,drugbank,agency drug,cyan
+641,drugbank,alogps,cyan
+642,drugbank,bc cancer,cyan
+643,drugbank,bigg,cyan
+644,drugbank,chebi,cyan
+645,drugbank,chembl,cyan
+646,drugbank,chemspider,cyan
+647,drugbank,clinicaltrials.gov,cyan
+648,drugbank,dailymed,cyan
+649,drugbank,drug product database (canada),cyan
+650,drugbank,drugs.com,cyan
+651,drugbank,fda approval packages,cyan
+652,drugbank,genatlas,cyan
+653,drugbank,genbank,cyan
+654,drugbank,gene ontology (go),cyan
+655,drugbank,genecards,cyan
+656,drugbank,human metabolome database (hmdb),cyan
+657,drugbank,kegg,cyan
+658,drugbank,metacyc,cyan
+659,drugbank,msds,cyan
+660,drugbank,nist chemistry,cyan
+661,drugbank,ommbid,cyan
+662,drugbank,pdb,cyan
+663,drugbank,pdbechem,cyan
+664,drugbank,pdrhealth,cyan
+665,drugbank,pharmgkb,cyan
+666,drugbank,physprop,cyan
+667,drugbank,protfun,cyan
+668,drugbank,protparam,cyan
+669,drugbank,pubchem,cyan
+670,drugbank,pubmed,cyan
+671,drugbank,rxlist,cyan
+672,drugbank,sciencelab.com,cyan
+673,drugbank,sdbs,cyan
+674,drugbank,sigma-aldrich,cyan
+675,drugbank,smpdb,cyan
+676,drugbank,therapeutic target database (ttd),cyan
+677,drugbank,tmhmm,cyan
+678,drugbank,toxnet,cyan
+679,drugbank,uniport,cyan
+680,drugbank,walgreens,cyan
+681,drugbank,webbook,cyan
+682,drugbank,who atc index,cyan
+683,drugbank,wikipedia,cyan
+684,drugcentral,cas registry,green
+685,drugcentral,chebi,green
+686,drugcentral,chembl,green
+687,drugcentral,drugbank,green
+688,drugcentral,drugs@fda,green
+689,drugcentral,ema,green
+690,drugcentral,fda pharm classes,green
+691,drugcentral,iupharm,green
+692,drugcentral,kegg,green
+693,drugcentral,mesh,green
+694,drugcentral,ndfrt,green
+695,drugcentral,pdma,green
+696,drugcentral,protein databank ligand id,green
+697,drugcentral,pubchem,green
+698,drugcentral,rxnorm,green
+699,drugcentral,snomed-ct,green
+700,drugcentral,umls,green
+701,drugcentral,unii,green
+702,drugcentral,who atc index,green
+703,withdrawn,chembl,blue
+704,withdrawn,dbsnp database,blue
+705,withdrawn,drugbank,blue
+706,withdrawn,e-drug3d,blue
+707,withdrawn,ema,blue
+708,withdrawn,ensembl database,blue
+709,withdrawn,ghs,blue
+710,withdrawn,hugo gene nomenclature committee (hgnc),blue
+711,withdrawn,kegg,blue
+712,withdrawn,novartis safety panel,blue
+713,withdrawn,pdbechem,blue
+714,withdrawn,protox,blue
+715,withdrawn,pubchem,blue
+716,withdrawn,pubmed,blue
+717,withdrawn,therapeutic target database (ttd),blue
+718,withdrawn,toxicogenomics database (ctd),blue
+719,withdrawn,uniport,blue
+720,withdrawn,who atc index,blue
+721,repodb,aact,purple
+722,repodb,drugcentral,purple
+723,repodb,umls,purple
+724,superdrug2,chembl,magenta
+725,superdrug2,china's fda (cfda),magenta
+726,superdrug2,drugbank,magenta
+727,superdrug2,drugs.com,magenta
+728,superdrug2,ema,magenta
+729,superdrug2,fda approval packages,magenta
+730,superdrug2,health canada,magenta
+731,superdrug2,korea's fda (kfda),magenta
+732,superdrug2,novartis safety panel,magenta
+733,superdrug2,pdb,magenta
+734,superdrug2,sider resource,magenta
+735,superdrug2,therapeutic target database (ttd),magenta
+736,superdrug2,who atc index,magenta
+737,crib_nme,cas registry,brown
+738,crib_nme,chemspider,brown
+739,crib_nme,edgar,brown
+740,crib_nme,fda approval packages,brown
+741,crib_nme,fda orange book,brown
+742,crib_nme,pubmed,brown
+743,crib_nme,uspto,brown
+744,crib_nme,wipo,brown
